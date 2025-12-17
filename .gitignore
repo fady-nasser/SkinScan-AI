@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+server_debug.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (Keep .h5 as it's the main one used)
+*.keras
+
+# IDE
+.vscode/
+.idea/
